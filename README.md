@@ -7,4 +7,4 @@ python3 -m venv venv
 pip install requests
 python main.py (GitHub Username)
 
-https://github.com/AlonMalka360/GitUserActivity
+https://roadmap.sh/projects/github-user-activity
